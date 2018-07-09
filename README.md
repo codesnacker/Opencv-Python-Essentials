@@ -28,6 +28,7 @@ numpy
 * Python 3.6 
 * Pycharm Community Edition
 * Jupyter NoteBook
+* Anaconda
 
 ## Authors
 
@@ -35,6 +36,6 @@ numpy
  
 ## Acknowledgments
 
-* My Professore
+* My Professors
 * Adrian from pyimagesearch.com
  
