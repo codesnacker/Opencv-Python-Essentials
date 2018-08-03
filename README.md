@@ -19,6 +19,7 @@ numpy
  
 ```
 1. Coding a Blue Screen Using OpenCV
+2. Basic Filters and edge detection
 
 ``` 
  
